@@ -1,5 +1,5 @@
 # VirtualBox
-Virtualization, Integration, &amp; Utilization of end points and Infrastructure | https://www.virtualbox.org/wiki/Downloads
+Virtualization, Integration, &amp; Utilization of end points and Infrastructure 
 
 <h2>Description</h2>
 This Project consists of creating functional virtualized Servers, endpoints and firewalls for future use in IT projects.
@@ -8,7 +8,7 @@ This Project consists of creating functional virtualized Servers, endpoints and 
 
 <h2>Utilities Used</h2>
 
-- <b>VirtualBox Software</b>
+- <b>VirtualBox Software</b> | https://www.virtualbox.org/wiki/Downloads
 
  <h3>ISO Files:</h3>
 
