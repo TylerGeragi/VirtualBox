@@ -2,7 +2,7 @@
 Virtualization, Integration, &amp; Utilization of end points and Infrastructure 
 
 <h2>Description</h2>
-This Project consists of creating functional virtualized Servers, endpoints and firewalls for future use in IT projects.
+This Project consists of creating functional virtualized Network-Devices for future use in IT projects.
 <br />
 
 
