@@ -1,8 +1,8 @@
 # VirtualBox
-Virtualization, Integration, &amp; Utilization of end points and Infrastructure 
+Virtualization of end point and Infrastructure devices
 
 <h2>Description</h2>
-This Project consists of creating functional virtualized Network-Devices for future use in IT projects.
+This Project consists of software and ISO sources for future use in IT projects.
 <br />
 
 
